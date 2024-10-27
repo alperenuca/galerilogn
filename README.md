@@ -29,4 +29,4 @@ Bu proje, C# kullanarak geliştirilmiş basit bir **Araba Yönetim Sistemi** uyg
 
 1. Bu projeyi yerel bilgisayarınıza klonlayın:
    ```bash
-   git clone https://github.com/kullanici_adiniz/proje_adi.git
+   git clone https://github.com/alperenuca/galerilogn.git
